@@ -5,6 +5,47 @@
 * Metodologias de avaliação e bibliografia.
 * Vídeo contando a história da estatística.
 * Conceitos básicos: estatística, população, amostra, censo, variáveis discretas e contínuas.
+> O que é estatística?
+
+``A estatítisca associa dados aos problemas gerando informações relevantes para o estabelecimento de conclusões capazes de viabilizar a tomada de decisões em ambientes de incertezas e variações.``
+* Mudança de um pensamento determínistico para probabilistico
+
+> Origem da estatítica
+* Recenseamento
+* Nascimentos, óbitos, riquezas, impostos.
+* Finalidades tributárias e bélicas.
+* Variablidade dos dados
+
+> Estatística hoje
+* Pesquisa Eleitoral
+* Indíces econônimcos.
+* Big Data.
+
+> Importância da estatística
+* Resolver problemas
+* Fundamental em diversas áreas do conhecimento (engenharia, medicina)
+
+> Área da estatística
+* A teoria da Estatística divide-se em três grandes áreas:
+  * Probabilidade
+  * Estatística Descritiva
+  * Estatística Indutiva
+
+> Probabilidade 
+* Consiste no estudo da aleatoriedade e da incerteza.
+  > Utiliza métodos de quantificação das chances associadas.
+
+> Estatística Descritiva
+* Conceitos e métodos de coleta, organização, apresentação, análise e interpretação dos dados
+
+> Estatística inferencial ou indutiva
+* Processo de estimar informaçãoes sobre uma população
+Exemplo: Ocorrência de enchentes
+
+>
+
+
+
 
 ## Introdução: conceitos iniciais.
 Tipos de séries
