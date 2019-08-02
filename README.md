@@ -56,14 +56,14 @@ Tipos de amostragem
 Distribuição de frequência: dados brutos, rol, Representação de amostra, elementos de uma distribuição de frequencia de classe.
 
 ## Graficos de Distribuição de frequências
-Gráficos de uma distribuição de frequência: histograma, polígono de frequência e polígono de frequência acumulada.
-Frequencia relativa = porcentagem em relação a amostra.
-Frequência acumulada são as somas das frequências relativas.
-Amplitude amostral ou total = Xmax - Xmin (Maior - Menor valor).
-PontoMédio = A soma dos dois limites da classe /2
+* Gráficos de uma distribuição de frequência: histograma, polígono de frequência e polígono de frequência acumulada.
+* Frequencia relativa = porcentagem em relação a amostra.
+* Frequência acumulada são as somas das frequências relativas.
+* Amplitude amostral ou total = Xmax - Xmin (Maior - Menor valor).
+* PontoMédio = A soma dos dois limites da classe /2
 
 ## Distribuição de Frequência: Exercícios
-Aplicação de exercícios para fixação e revisão do conteúdo.
+* Aplicação de exercícios para fixação e revisão do conteúdo.
 
 ## 1º Trabalho
-1ºTrabalho: Distribuição de frequência.
+* 1ºTrabalho: Distribuição de frequência.
