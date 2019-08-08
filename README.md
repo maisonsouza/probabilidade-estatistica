@@ -27,24 +27,66 @@
 
 > Área da estatística
 * A teoria da Estatística divide-se em três grandes áreas:
-  * Probabilidade
-  * Estatística Descritiva
-  * Estatística Indutiva
+  * Probabilidade.
+  * Estatística Descritiva.
+  * Estatística Indutiva.
 
-> Probabilidade 
-* Consiste no estudo da aleatoriedade e da incerteza.
+> Probabilidade.
+* **Consiste no estudo da aleatoriedade e da incerteza.**
   > Utiliza métodos de quantificação das chances associadas.
 
-> Estatística Descritiva
-* Conceitos e métodos de coleta, organização, apresentação, análise e interpretação dos dados
+### Eventos determiníticos
+Fenômeno que sempre ocorre da mesma forma.
+Ex: A chuva.
 
-> Estatística inferencial ou indutiva
-* Processo de estimar informaçãoes sobre uma população
-Exemplo: Ocorrência de enchentes
+### Evento probabilistico
+Fênomeno que não se tem certeza se ocorrerá, além de aleatoriedade de acontecer.
 
->
+A base da probabilidade são fenomenos aleatórios.Resultados imprevisíveis.
+Exemplo: Jogar um dado, Cara ou Coroa.
+
+Experimento aleatório
+Número de sucessos divididos pelo número de tentativas do experimento.
+
+### Espaço Amostral
+Inclui todos os possíveis resultados que podem ser obtidos de um experimento.
+Probabilidade compreeendida entre 0 e 100%
+
+#### Eventos aleatório.
+Subconjunto do espaço amostral.
+Probabilidade compreeendida entre 0(Impossível) e 1(Certo).
+
+#### Evento Complementar.
+Formado por um único elemento do espaço amostral
+
+#### Evento Equiprovável.
+Cada ponto amostral tem a mesma probabilidade de acontecer.
+
+#### Eventos Mutuamente excludentes.
+Se acontece um evento o outro não acontece.
+
+#### Operação entre eventos
+* União (A OU B) Formado pelo pontos amostrais que pertencam a pelo menos um dos eventos.
+* Intersecção (A E B).
+
+#### Axiomas da Probabilidade
+Teorema do evento Complementar.
+Teorema da Soma.
 
 
+
+
+
+
+
+
+
+> Estatística Descritiva.
+* Conceitos e métodos de coleta, organização, apresentação, análise e interpretação dos dados.
+
+> Estatística inferencial ou indutiva.
+* Processo de estimar informaçãoes sobre uma população.
+Exemplo: Ocorrência de enchentes.
 
 
 ## Introdução: conceitos iniciais.
