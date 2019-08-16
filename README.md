@@ -1,4 +1,4 @@
-# Anotações do Curso de Probabilidade Estatística
+# Anotações do Curso de Probabilidade Estatística - TADS
 
 ## Apresentação da Ementa
 * Apresentação do plano de ensino.
@@ -73,16 +73,61 @@ Se acontece um evento o outro não acontece.
 Teorema do evento Complementar.
 Teorema da Soma.
 
+## Estatística - Aula 11 - Amostragem - Conceitos Fundamentais
 
-
-
-
-
-
-
+#### Objetivos
+* Apresentar os conceitos de amostragem e amostra
+* As principais técnicas de amostragens probabílisticas e não probabilisticas.
 
 > Estatística Descritiva.
+#### Método estatístico.
+``
+Definição do problema, Planejamento da Pesquisa, Coleta de Dados, Apuração dos dados, Apresentação dos dados, Análise e Interpretação dos dados.
+``
 * Conceitos e métodos de coleta, organização, apresentação, análise e interpretação dos dados.
+* Seu objetivo fundamental é o estudo dos parâmetros de uma população.
+
+*Censo*: investigação de todos os elementos da população.
+
+*Amostragem*: seleção de alguns elementos da população-pesquisa em uma amostra.
+*Amostra* o grupo de elementos que vai ser análisado, subconjunto da população.
+´Boas amostras são representativas e preferencialmente aleatórias.´
+**Amostragem é o processo de escolha da amostra, a etapa mais importante**.
+Riscos: margem de erro prevista numa investigação parcial considernado o universo.
+´´Métodos probabílisticos e não probabilisticos.´´
+
+###### Definição do problema
+`Identificação da população que será pesquisada`
+
+###### Planejamento
+`Definir os critérios de amostragem, quais os procedimentos, os métodos de seleção, quais são os dados, cronograma`
+
+
+###### Coleta de dados
+`Aplicação de questionários, coleta de respostas`
+
+###### Apuração dos dados
+`Tabulação dos dados, consolidação dos resultados`
+
+###### Apresentação dos dados
+`Formatação das tabelas`
+
+###### Inferência estatística
+`Tabulação dos dados, consolidação dos resultados`
+
+Amostragem não probabilística
+`Amostragem intencional, Amostragem por quotas`
+
+Amostagem probabilísticas
+``Cada elemento da população possui uma probablidade conhecida de ser escolhido, resultados são generalizáveis``
+`Amostragem aleatória simples, Amostra aleatória estratificada, Amostra por Conglomerado, Amostra sistemática`
+
+###### Exemplos:
+``
+Pesquisas eleitorais
+Representatividade - características socioeconômicos, culturais, religiosas.
+``
+
 
 > Estatística inferencial ou indutiva.
 * Processo de estimar informaçãoes sobre uma população.
@@ -109,3 +154,5 @@ Distribuição de frequência: dados brutos, rol, Representação de amostra, el
 
 ## 1º Trabalho
 * 1ºTrabalho: Distribuição de frequência.
+
+
