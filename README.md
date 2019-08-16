@@ -73,6 +73,15 @@ Se acontece um evento o outro não acontece.
 Teorema do evento Complementar.
 Teorema da Soma.
 
+### Tipos de variáveis.
+![](https://blog.fastformat.co/wp-content/uploads/2018/05/variaveisquantitativas_qualitativas-768x398.png)
+``
+Variáveis Quantitativas: são representadas por meio de números resultantes de uma contagem ou mensuração. Elas podem ser de dois tipos:
+Variáveis discretas: os valores representam um conjunto finito ou enumerável de números, e que resultam de uma contagem, por exemplo: Número de filhos (0,1,2,…), número de bactérias por amostra, número de copos de cerveja tomados por dia.
+Variáveis contínuas: os valores pertencem a um intervalo de números reais e representam uma mensuração como por exemplo altura ou peso de uma pessoa. Nesses casos números fracionais fazem sentido. Exemplo: tempo (relógio) e pressão arterial.
+``
+
+
 ## Estatística - Aula 11 - Amostragem - Conceitos Fundamentais
 
 #### Objetivos
